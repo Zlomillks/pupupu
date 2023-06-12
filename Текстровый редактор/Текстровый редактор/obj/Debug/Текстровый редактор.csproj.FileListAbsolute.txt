@@ -1,0 +1,11 @@
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\bin\Debug\Текстровый редактор.exe.config
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\bin\Debug\Текстровый редактор.exe
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\bin\Debug\Текстровый редактор.pdb
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый редактор.csproj.AssemblyReference.cache
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый редактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый_редактор.Form1.resources
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый_редактор.Properties.Resources.resources
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый редактор.csproj.GenerateResource.cache
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый редактор.csproj.CoreCompileInputs.cache
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый редактор.exe
+C:\Users\MillkaDanillka\source\repos\Текстровый редактор\Текстровый редактор\obj\Debug\Текстровый редактор.pdb
